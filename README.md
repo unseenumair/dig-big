@@ -49,3 +49,8 @@
 ├── package-lock.json
 └── README.md
 ```
+
+---
+
+### 📝 License
+[CC BY-NC 4.0](LICENSE) (Attribution-NonCommercial) - Commercial use and selling of this game is strictly prohibited.
