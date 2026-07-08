@@ -1,27 +1,51 @@
-# Folder structure
+# ⛏️ Dig Big (v1.0)
+![Banner](www/assets/banner.png)
 
-- `src` - source code for your kaboom project
-- `www` - distribution folder, contains your index.html, built js bundle and static assets
+**Developer:** Umair ([github.com/unseenumair](https://github.com/unseenumair))
 
+---
 
-## Development
+### 🎮 Characters & Objects
+* **Player:** Pickaxe (`playerSprite`)
+* **Collectible:** Bitcoin (`addSprite`)
+* **Hazard:** Bomb (`bombSprite`)
 
-```sh
-$ npm run dev
+---
+
+### 🕹️ How to Play
+1. Click the screen to start the background music.
+2. Use keyboard arrow keys (`⬅️`, `➡️`, `⬆️`, `⬇️`) to move.
+3. Collect Bitcoins to score points. The game speeds up every 5 points.
+4. Avoid falling bombs. Touching a bomb triggers Game Over.
+
+---
+
+### 🛠️ Tech Stack
+* **Language:** JavaScript (ES6+)
+* **Engine:** KaboomJS
+
+---
+
+### 📂 Folder Structure
+```text
+├── www/
+│   ├── index.html
+│   ├── assets/
+│   │   └── banner.png
+│   ├── fonts/
+│   │   └── pressStart2p.ttf
+│   ├── sprites/
+│   │   ├── pickaxe.svg
+│   │   ├── bomb.png
+│   │   └── bitcoin.svg
+│   └── sounds/
+│       ├── surfers.mp3
+│       ├── coin.mp3
+│       └── explode.mp3
+├── src/
+│   └── main.js
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 ```
-
-will start a dev server at http://localhost:8000
-
-## Distribution
-
-```sh
-$ npm run build
-```
-
-will build your js files into `www/main.js`
-
-```sh
-$ npm run bundle
-```
-
-will build your game and package into a .zip file, you can upload to your server or itch.io / newground etc.
