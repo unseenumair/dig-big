@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digbig.vercel.app/sitemap.xml
