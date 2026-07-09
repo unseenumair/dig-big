@@ -1,4 +1,4 @@
-# ⛏️ Dig Big (v1.0)
+# ⛏️ Dig Big (v1.3)
 ![Banner](www/assets/banner.png)
 
 **Developer:** Umair ([github.com/unseenumair](https://github.com/unseenumair))
