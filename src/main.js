@@ -28,6 +28,7 @@ loadSprite("addSprite", "sprites/bitcoin.svg")
 loadSound("backgroundMusic", "sounds/surfers.mp3")
 loadSound("addMusic", "sounds/coin.mp3")
 loadSound("bombMusic", "sounds/explode.mp3")
+loadSound("reviveMusic", "sounds/revive.mp3")
 
 // ---
 
@@ -235,8 +236,6 @@ function main() {
       
       // reset everything cleanly and fire the main loop container again
       restartBtn.onClick(() => {
-        setCursor("default")
-        
         // Stop the active background music stream completely
         if (currentBgMusic) currentBgMusic.stop()
         
@@ -247,6 +246,7 @@ function main() {
         destroyAll("*")
         againPlays += 1
         volume(1)
+        play("reviveMusic", { volume: 1 })
         main()
       })
     })
