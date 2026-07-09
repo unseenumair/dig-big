@@ -1,4 +1,4 @@
-# ⛏️ Dig Big (v1.3)
+# ⛏️ Dig Big (v2.1)
 ![Banner](www/assets/banner.png)
 
 **Developer:** Umair ([github.com/unseenumair](https://github.com/unseenumair))
@@ -14,9 +14,10 @@
 
 ### 🕹️ How to Play
 1. Click the screen to start the background music.
-2. Use keyboard arrow keys (`⬅️`, `➡️`, `⬆️`, `⬇️`) to move.
-3. Collect Bitcoins to score points. The game speeds up every 5 points.
-4. Avoid falling bombs. Touching a bomb triggers Game Over.
+2. [Desktop] Use keyboard arrow keys (`⬅️`, `➡️`, `⬆️`, `⬇️`) to move.
+3. [Mobile] Drag player to prevent from bombs and collect bitcoins !
+4. Collect Bitcoins to score points. The game speeds up every 5 points.
+5. Avoid falling bombs. Touching a bomb triggers Game Over.
 
 ---
 
