@@ -1,8 +1,6 @@
 # ⛏️ Dig Big (v2.1)
 ![Banner](www/assets/banner.png)
 
-**Developer:** Umair ([github.com/unseenumair](https://github.com/unseenumair))
-
 ---
 
 ### 🎮 Characters & Objects
@@ -55,3 +53,8 @@
 
 ### 📝 License
 [CC BY-NC 4.0](LICENSE) (Attribution-NonCommercial) - Commercial use and selling of this game is strictly prohibited.
+
+---
+
+### Author
+Developed by [Umair](https://github.com/unseenumair) from 🇵🇰
