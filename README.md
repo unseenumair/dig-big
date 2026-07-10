@@ -14,10 +14,10 @@
 
 ### 🕹️ How to Play
 1. Click the screen to start the background music.
-2. [Desktop] Use keyboard arrow keys (`⬅️`, `➡️`, `⬆️`, `⬇️`) to move.
-3. [Mobile] Drag player to prevent from bombs and collect bitcoins !
-4. Collect Bitcoins to score points. The game speeds up every 5 points.
-5. Avoid falling bombs. Touching a bomb triggers Game Over.
+2. [Desktop](#) Use keyboard arrow keys (`⬅️`, `➡️`, `⬆️`, `⬇️`) to move.
+3. [Mobile](#) Drag player to prevent from bombs and collect bitcoins !
+4. Collect Bitcoins to score points. The game speeds up on every score.
+5. Avoid digging bombs. As it explodes.
 
 ---
 
