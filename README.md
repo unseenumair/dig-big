@@ -1,4 +1,4 @@
-# ⛏️ Dig Big (v2.1)
+# ⛏️ Dig Big (v2.2)
 ![Banner](www/assets/banner.png)
 
 ---
